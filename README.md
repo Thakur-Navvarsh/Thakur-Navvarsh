@@ -1,17 +1,21 @@
-Hi there 
-I am Navvarsh
+# Hi, I'm Thakur 👋
 
-<!--
-**Thakur-Navvarsh/Thakur-Navvarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.Tech CSE student. I like building small, useful things and learning how computers work from the ground up.
 
-Here are some ideas to get you started:
+## What I'm up to
+- 🐍 Learning Python
+- 🔌 Digital logic with Verilog
+- 📅 Building a task-focused calendar app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Student Performance Analysis**: a Python menu-driven program that analyses student data from a CSV file
+- **Thakur's Planner**: a calendar app for Gen Z (in progress)
+
+## Tech
+Python · Verilog · Git · VS Code
+
+## Reach me
+- Email: your@email.com
+- LinkedIn: link here
+
+*Always learning, always building.*
