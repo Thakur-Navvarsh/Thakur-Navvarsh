@@ -15,7 +15,7 @@ First-year B.Tech CSE student. I like building small, useful things and learning
 Python · Verilog · Git · VS Code
 
 ## Reach me
-- Email: your@email.com
-- LinkedIn: link here
+- Email: navvarshpsingh9565@gmail.com
+- LinkedIn: https://www.linkedin.com/in/navvarsh-pratap-singh-88487625b/
 
 *Always learning, always building.*
